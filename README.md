@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **premsagar9113@gmail.com**
 
-- ⚡ Fun fact **I also run a YouTube channel called "CS Guru" where I teach web development and Blender(3D Modelling and Animation software) )**
+- ⚡ Fun fact **I also run a YouTube channel called "CS Guru" where I teach web development and Blender(3D Modelling and Animation software)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
